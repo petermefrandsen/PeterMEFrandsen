@@ -7,9 +7,9 @@
 
 <img src="./assets/pmef.svg" align="right" style="padding-left: 5px;" alt="pmef-logo" width="150"/>
 
-I am a passionate platform owner by day :sunny: and a full stack developer by night :moon:.
+I am a Chapter Lead with a strong passion for building enterprise grade systems and software.
 
-I have had many different roles and some would say that how I work is mostly in the category where the job-title could be *
+I have had many different roles and some would say that how I work is mostly in the category where the job-title could be 42 or *
 
 > The Answer to the Great Question... Of Life, the Universe and Everything... Is... Forty-two,' said Deep Thought, with infinite majesty and calm. <br/>
 _-Douglas Adams, The Hitchhiker's Guide to the Galaxy_
@@ -22,6 +22,7 @@ Some career and education debt:
 - :mag: Prev. Quality Manager
 - :computer: Prev. Full stack developer
 - :cloud: Prev. Cloud Architect
+- 📑 Prev. Platform Owner
 
 
 ![PeterMEFrandsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=petermefrandsen&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petermefrandsen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
